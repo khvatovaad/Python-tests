@@ -1,4 +1,4 @@
-# git-example
-git course example
+# Python tests
 
-Hello World!
+Здесь хранятся автотесты на Python для курса https://stepik.org/course/575/syllabus
+"Автоматизация тестирования с помощью Selenium и Python"
